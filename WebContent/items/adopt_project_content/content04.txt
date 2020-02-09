@@ -1,0 +1,19 @@
+<h1 class="title">箱子急需找家</h1>
+<div class="tabs">&nbsp;</div>
+<div class="node">
+  <div class="content">
+    <div class="fieldgroup basicinfo">
+      <div class="field field-type-image field-field-pets-image">
+        <div class="field-items">
+          <div class="field-item odd"><img class="imagecache imagecache-normal" title="" src="http://www.meetpets.org.tw/files_meetpets/imagecache/normal/79576766_2717290028336558_8266021417099722752_n.jpg" alt="79576766_2717290028336558_8266021417099722752_n.jpg" /></div>
+          <div class="field-item odd">
+            <p>箱子是在一個平凡的中午被發現的，體型嬌小、瘦弱、皮膚不好，疑似是被惡意棄養在機車塔外面，也很像繁殖場出來的狗狗&hellip;&hellip;，對於這樣的事情，社團也相當無奈，又不忍心袖手旁觀&hellip;&hellip;</p>
+            <p>由於來的時後裝在箱子裡，一有人靠近他的箱子就會低吼，所以取名叫箱子。<br />從外觀來看，就知道箱子從以前就過得很不好&hellip;..，不意外的，他的身體狀況也不太好，先前帶箱子看過獸醫，醫生推測箱子可能出過車禍，導致腰椎受傷與疝氣問題，不久前病情還惡化到有生命危險&hellip;&hellip;</p>
+            <p>現在箱子需要需要的照顧有擠尿便、沖洗褥瘡、熱敷四肢、和伸展關節等等，雖然箱子需要很多照顧，不過箱子每天還是很努力在吃東西、會嘗試自己爬起來、甚至還會翻肚。不過因為是學生社團，我們的資金、人力及能力都有限，沒辦法給箱子最好的照顧及治療，寒假即將來臨，有許多社員即將返鄉，箱子在寒假很可能會欠缺照顧，如果有人能給箱子一個家，加上細心照料的話，箱子的病情很可能會好轉&hellip;&hellip;</p>
+            <p>箱子在等一個有愛、能夠好好照顧牠的家。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

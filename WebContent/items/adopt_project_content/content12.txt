@@ -1,0 +1,14 @@
+<h1 class="title">膽小卻溫柔的女孩:胡麻</h1>
+<div class="tabs">&nbsp;</div>
+<div class="node">
+  <div class="content">
+    <div class="fieldgroup basicinfo">
+      <div class="field field-type-image field-field-pets-image">
+        <div class="field-items">
+          <div class="field-item odd"><img class="imagecache imagecache-normal" title="胡麻與她有點外露的小獠牙" src="http://www.meetpets.org.tw/files_meetpets/imagecache/normal/IMG_7439.JPG" alt="IMG_7439.JPG" /></div>
+          <div class="field-item odd">胡麻是徒手就抓到的浪浪，個性膽小、易緊張，可是非常溫柔，不曾哈氣咬人。獠牙比較長但不影響進食，有著長長的尾巴與嬌嫩的喵喵聲，我們都笑稱她是乖乖小媳婦個性。<br />胡麻在外流浪時，曾有上呼吸道感染，一直流鼻涕，但經更換至室內環境，並給予妥善照顧後，流鼻水情形已大幅改善。<br />她不算是外觀討喜的網美貓，卻非常惹人憐愛。也常會有令人融化的舉動，例如躲進娃娃堆裡假裝自己是娃娃，以為這樣我們就找不到她了XD<br />領養人須有心理準備，她一開始會怕人，不會馬上與你親近，但相信隨著飼主的耐心相處，她將會是個窩心的陪伴。</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

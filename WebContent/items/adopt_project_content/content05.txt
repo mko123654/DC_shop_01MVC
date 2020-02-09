@@ -1,0 +1,19 @@
+<h1 class="title">可愛凱西找家</h1>
+<div class="tabs">&nbsp;</div>
+<div class="node">
+  <div class="content">
+    <div class="fieldgroup basicinfo">
+      <div class="field field-type-image field-field-pets-image">
+        <div class="field-items">
+          <div class="field-item odd"><img class="imagecache imagecache-normal" title="" src="http://www.meetpets.org.tw/files_meetpets/imagecache/normal/79851138_2689649147767313_470748803851354112_n.jpg" alt="79851138_2689649147767313_470748803851354112_n.jpg" /></div>
+          <div class="field-item odd">
+            <p>凱西是跟著牠的牽繩流浪到校園的，剛發現牠時，很遺憾的，跟大多數流浪的狗狗一樣，都沒有晶片&hellip;&hellip;.就這樣，過了不久，瘦弱的凱西，也成為了清大校浪的一員。</p>
+            <p>我們發現凱西會坐車、也很習慣跟人相處、還有點分離焦慮，因此，推斷凱西是被棄養或走失的狗狗，雖然年紀才1歲，不過那時常憂鬱的臉、無辜的眼神中好像流露出那麼一點哀傷&hellip;.</p>
+            <p>凱西看到人都會熱情地上來蹭蹭打招呼，雖然有時會太過熱情，被覺得有點不禮貌，不過這都是凱西牠在表達愛的方式！由於凱西才來到校園不久，尚未被所有校浪接受，常常可以看到凱西被其他狗狗兇或追趕，但是凱西還是很努力的在適應、生存，看到這樣的凱西難免會覺得有點不捨&hellip;有誰能給凱西一個溫暖的家呢？</p>
+            <p>凱西在等一個可以給牠一輩子承諾、愛牠的主人！</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
